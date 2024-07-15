@@ -108,8 +108,6 @@ Example: [Moshi](/references/kuytai/moshi.md), developed by Kyutai, is a real-ti
 
 ### Text
 
-#### List
-
 | Name | Author | Link |
 | ---|---| ---|
 | Chilean Humor | cachai | [Github](https://github.com/aastroza/chilean-humor) |
@@ -131,5 +129,11 @@ An unexpected but rich source for this linguistic data lies in Chile's vibrant c
 | Google Chilean Spanish | [Yoach Lacombe](https://github.com/ylacombe) | [Huggin Face](https://huggingface.co/datasets/ylacombe/google-chilean-spanish) |
 | Crowdsourced high-quality Chilean Spanish speech dataset | Guevera-Rokuz et al | [Open SLR](https://www.openslr.org/71/) |
 
-## Fine-tunings
+## Fine-tune
 
+- [Finetune VITS and MMS using HuggingFace's tools](https://github.com/ylacombe/finetune-hf-vits)
+- [Parler-TTS](https://github.com/huggingface/parler-tts)
+
+## Tools
+
+- [DataSpeech](https://github.com/huggingface/dataspeech)
