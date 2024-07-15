@@ -1,6 +1,6 @@
 # cachai: the multimodal LLM about which there's nothing to say
 
-Welcome to the LLM that brings Chile's vibrant linguistic landscape to the forefront of technology. We're not just translating words; we're capturing the culture, humor, and unmistakable Chilean spirit.
+Welcome to the LLM that brings Chile's vibrant linguistic landscape to the forefront of technology. We're not just translating words; we're capturing the culture, humor, and distinctive Chilean spirit.
 
 The future of AI is speaking Chilean, cachai?
 
