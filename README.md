@@ -74,6 +74,10 @@ The entire process typically takes 3 to 5 seconds from input to output.
 
 Example: [Moshi](/references/kuytai/moshi.md), developed by Kyutai, is a real-time voice-enabled AI that incorporates advanced multimodal processing, enabling more natural and spontaneous conversations with AI systems.
 
+| ![moshi.jpg](images/moshi.jpg | 
+|:--:| 
+| *Kyutai rolls out first voice-enabled AI chatbot ‘Moshi’. Image from [GBN](https://www.gccbusinessnews.com/kyutai-rolls-out-ai-chatbot-moshi/)* |
+
 #### Key Features
 - Real-time voice interaction: Achieves a latency of approximately 200-240ms.
 - Multimodal processing: Simultaneously processes audio and text.
@@ -81,24 +85,24 @@ Example: [Moshi](/references/kuytai/moshi.md), developed by Kyutai, is a real-ti
 - Support for diverse emotions and speaking styles: Recognizes and expresses over 70 different emotions and styles.
 - On-device capability: Functions effectively on standard laptops without requiring constant internet connectivity.
 
-#### Comparison with Traditional AI Voice Systems
+### Comparison with Traditional AI Voice Systems
 
-- Traditional Systems
-    - Pipeline approach: Sequential stages of Voice Activity Detection, ASR (Automatic Speech Recognition), LLM (Large Language Model), and TTS (Text-to-Speech).
-    - High latency: Typically ranges from 3-5 seconds.
-    - Loss of non-textual information: Struggles to capture tone, emotion, and context.
-    - Rigid turn-taking: Limited to back-and-forth interactions without overlapping dialogue.
-    - Limited contextual understanding: Fails to adapt dynamically to ongoing conversations.
+#### Traditional Systems
+- Pipeline approach: Sequential stages of Voice Activity Detection, ASR (Automatic Speech Recognition), LLM (Large Language Model), and TTS (Text-to-Speech).
+- High latency: Typically ranges from 3-5 seconds.
+- Loss of non-textual information: Struggles to capture tone, emotion, and context.
+- Rigid turn-taking: Limited to back-and-forth interactions without overlapping dialogue.
+- Limited contextual understanding: Fails to adapt dynamically to ongoing conversations.
 
-- Multimodal
-    - Unified model approach: Utilizes a single deep neural network.
-    - Drastically reduced latency: Achieves real-time interactions with 200-240ms delay.
-    - Preservation of non-textual information: Captures tone, emotion, and context effectively.
-    - Multi-stream processing: Allows for natural, overlapping dialogue.
-    - Multimodal understanding: Integrates audio and text for more comprehensive comprehension.
-    - Real-time adaptation: Adjusts dynamically to the user's tone and style.
-    - Advanced audio compression: Uses Mimi codec for efficient audio processing.
-    - Contextual consistency: Maintains coherent and contextually relevant interactions.
+#### Multimodal
+- Unified model approach: Utilizes a single deep neural network.
+- Drastically reduced latency: Achieves real-time interactions with 200-240ms delay.
+- Preservation of non-textual information: Captures tone, emotion, and context effectively.
+- Multi-stream processing: Allows for natural, overlapping dialogue.
+- Multimodal understanding: Integrates audio and text for more comprehensive comprehension.
+- Real-time adaptation: Adjusts dynamically to the user's tone and style.
+- Advanced audio compression: Uses Mimi codec for efficient audio processing.
+- Contextual consistency: Maintains coherent and contextually relevant interactions.
 
 ## Data
 
