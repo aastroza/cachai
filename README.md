@@ -104,12 +104,29 @@ Example: [Moshi](/references/kuytai/moshi.md), developed by Kyutai, is a real-ti
 - Advanced audio compression: Uses Mimi codec for efficient audio processing.
 - Contextual consistency: Maintains coherent and contextually relevant interactions.
 
-## Data
+## Datasets
 
-### Chilean Humor
+### Text
+
+#### Chilean Humor
 
 | ![avello.jpg](images/avello.jpg) | 
 |:--:| 
 | *Felipe Avello in the Viña del Mar Festival. SA Producciones, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons* |
 
 An unexpected but rich source for this linguistic data lies in Chile's vibrant comedy scene. The [Viña del Mar Festival](https://en.wikipedia.org/wiki/Vi%C3%B1a_del_Mar_International_Song_Festival), showcases the country's top comedians and offers a treasure trove of uniquely Chilean expressions, wordplay, and cultural references. Held annually since 1960, the festival presents Chilean humor, known for its eccentricity – from talking puppets to trampoline-jumping comedians. This humor often features dialogues that are incomprehensible to non-Chilean Spanish speakers, making it an ideal dataset for training LLMs in the intricacies of Chilean Spanish.
+
+#### Other
+
+| Name | Author | Link
+| Chilean Spanish Corpus | [Jorge Ortiz Fuentes](https://github.com/jorgeortizfuentes) | [Huggin Face](https://huggingface.co/datasets/jorgeortizfuentes/chilean-spanish-corpus) |
+| Universal Chilean Spanish Corpus | [Jorge Ortiz Fuentes](https://github.com/jorgeortizfuentes) | [Huggin Face](https://huggingface.co/datasets/jorgeortizfuentes/universal_spanish_chilean_corpus) |
+
+### Text to Speech  (TTS)
+
+| Name | Author | Link
+| Google Chilean Spanish | [Yoach Lacombe](https://github.com/ylacombe) | [Huggin Face](https://huggingface.co/datasets/ylacombe/google-chilean-spanish) |
+| Crowdsourced high-quality Chilean Spanish speech data set. | Guevera-Rokuz et al | [Open SLR](https://www.openslr.org/71/) |
+
+## Fine-tunings
+
