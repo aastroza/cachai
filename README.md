@@ -118,13 +118,13 @@ An unexpected but rich source for this linguistic data lies in Chile's vibrant c
 
 #### Other
 
-| Name | Author | Link
+| Name | Author | Link |
 | Chilean Spanish Corpus | [Jorge Ortiz Fuentes](https://github.com/jorgeortizfuentes) | [Huggin Face](https://huggingface.co/datasets/jorgeortizfuentes/chilean-spanish-corpus) |
 | Universal Chilean Spanish Corpus | [Jorge Ortiz Fuentes](https://github.com/jorgeortizfuentes) | [Huggin Face](https://huggingface.co/datasets/jorgeortizfuentes/universal_spanish_chilean_corpus) |
 
 ### Text to Speech  (TTS)
 
-| Name | Author | Link
+| Name | Author | Link |
 | Google Chilean Spanish | [Yoach Lacombe](https://github.com/ylacombe) | [Huggin Face](https://huggingface.co/datasets/ylacombe/google-chilean-spanish) |
 | Crowdsourced high-quality Chilean Spanish speech data set. | Guevera-Rokuz et al | [Open SLR](https://www.openslr.org/71/) |
 
