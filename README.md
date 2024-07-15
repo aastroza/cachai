@@ -1,40 +1,40 @@
 # cachai: el LLM multimodal del que no hay nada que decir
 
-## IA de Voz Tradicional
+## Traditional Voice AI
 
-El proceso se divide en tres etapas principales: Escuchar, Pensar y Hablar. Cada etapa involucra tecnologías específicas de IA para procesar y generar voz.
+The process is divided into three main stages: Listen, Think, and Speak. Each stage involves specific AI technologies to process and generate speech.
 
 ```mermaid
 graph LR
-    subgraph Escuchar
-    A[Detección de Actividad de Voz] --> B[Reconocimiento Automático del Habla]
+    subgraph Listen
+    A[Voice Activity Detection] --> B[Automatic Speech Recognition]
     end
-    subgraph Pensar
-    C[LLM]
+    subgraph Think
+    C[Large Language Model]
     end
-    subgraph Hablar
-    D[Texto a Voz]
+    subgraph Speak
+    D[Text-to-Speech]
     end
     
     B --> C
     C --> D
     
-    style Escuchar fill:#f0fff0,stroke:#333,stroke-width:2px
-    style Pensar fill:#f0f8ff,stroke:#333,stroke-width:2px
-    style Hablar fill:#fff0f5,stroke:#333,stroke-width:2px
+    style Listen fill:#f0fff0,stroke:#333,stroke-width:2px
+    style Think fill:#f0f8ff,stroke:#333,stroke-width:2px
+    style Speak fill:#fff0f5,stroke:#333,stroke-width:2px
 ```
 
-### Etapa de Escuchar
+## Listen Stage
 
-- **Detección de Actividad de Voz:** Identifica cuándo hay habla presente en la entrada de audio.
-- **Reconocimiento Automático del Habla:** Convierte el habla detectada en texto.
+- **Voice Activity Detection:** Identifies when speech is present in the audio input.
+- **Automatic Speech Recognition:** Converts the detected speech into text.
 
-### Etapa de Pensar
+## Think Stage
 
-- **LLM:** Procesa la entrada de texto y genera una respuesta apropiada.
+- **Large Language Model:** Processes the text input and generates an appropriate response.
 
-### Etapa de Hablar
+## Speak Stage
 
-- **Texto a Voz:** Convierte la respuesta de texto generada en salida de audio hablada.
+- **Text-to-Speech:** Converts the generated text response into spoken audio output.
 
-Todo el proceso típicamente toma de 3 a 5 segundos desde la entrada hasta la salida.
+The entire process typically takes 3 to 5 seconds from input to output.
