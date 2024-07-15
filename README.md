@@ -74,7 +74,7 @@ The entire process typically takes 3 to 5 seconds from input to output.
 
 Example: [Moshi](/references/kuytai/moshi.md), developed by Kyutai, is a real-time voice-enabled AI that incorporates advanced multimodal processing, enabling more natural and spontaneous conversations with AI systems.
 
-| ![moshi.jpg](images/moshi.jpg | 
+| ![moshi.jpg](images/moshi.jpg) | 
 |:--:| 
 | *Kyutai rolls out first voice-enabled AI chatbot ‘Moshi’. Image from [GBN](https://www.gccbusinessnews.com/kyutai-rolls-out-ai-chatbot-moshi/)* |
 
