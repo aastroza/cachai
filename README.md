@@ -29,7 +29,6 @@ Adapting models to this Chilean dialect requires more than simple translation. I
 
 Developing a model specialized in Chilean Spanish is not just about preserving linguistic diversity. It's about ensuring that as AI-mediated communication becomes ubiquitous, Chilean voices are not left behind. This project aims to bridge the gap between global advancements and local linguistic realities. The goal is to create a LLM that can authentically understand and interact with Chilean Spanish speakers, reflecting their unique expressions and cultural context.
 
-
 ## Exploration
 
 ### Traditional Voice AI
@@ -55,6 +54,21 @@ graph LR
     style Think fill:#f0f8ff,stroke:#333,stroke-width:2px
     style Speak fill:#fff0f5,stroke:#333,stroke-width:2px
 ```
+
+#### Listen Stage
+
+- **Voice Activity Detection:** Identifies when speech is present in the audio input.
+- **Automatic Speech Recognition:** Converts the detected speech into text.
+
+#### Think Stage
+
+- **Large Language Model:** Processes the text input and generates an appropriate response.
+
+#### Speak Stage
+
+- **Text-to-Speech:** Converts the generated text response into spoken audio output.
+
+The entire process typically takes 3 to 5 seconds from input to output.
 
 ### Multimodal Voice AI
 
@@ -85,21 +99,6 @@ Example: [Moshi](/references/kuytai/moshi.md), developed by Kyutai, is a real-ti
     - Real-time adaptation: Adjusts dynamically to the user's tone and style.
     - Advanced audio compression: Uses Mimi codec for efficient audio processing.
     - Contextual consistency: Maintains coherent and contextually relevant interactions.
-
-#### Listen Stage
-
-- **Voice Activity Detection:** Identifies when speech is present in the audio input.
-- **Automatic Speech Recognition:** Converts the detected speech into text.
-
-#### Think Stage
-
-- **Large Language Model:** Processes the text input and generates an appropriate response.
-
-#### Speak Stage
-
-- **Text-to-Speech:** Converts the generated text response into spoken audio output.
-
-The entire process typically takes 3 to 5 seconds from input to output.
 
 ## Data
 
