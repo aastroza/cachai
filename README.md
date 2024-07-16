@@ -136,8 +136,9 @@ An unexpected but rich source for this linguistic data lies in Chile's vibrant c
 | Name | Author | Link |
 | ---|---| ---|
 |  Common Voice Corpus 13.0 | [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets) | [Huggin Face](https://huggingface.co/datasets/mozilla-foundation/common_voice_13_0) |
+|  Common Voice Corpus 13.0 - Chilean Accent | [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets) | [Huggin Face](https://huggingface.co/datasets/mozilla-foundation/common_voice_13_0/viewer/es/train?f[accent][value]=%27Chileno:%20Chile,%20Cuyo%27) |
 
-## Fine-tune
+## Fine-tuning
 
 ### TTS
 
