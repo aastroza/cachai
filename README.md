@@ -139,8 +139,13 @@ An unexpected but rich source for this linguistic data lies in Chile's vibrant c
 
 ## Fine-tune
 
+### TTS
+
 - [Finetune VITS and MMS using HuggingFace's tools](https://github.com/ylacombe/finetune-hf-vits)
 - [Parler-TTS](https://github.com/huggingface/parler-tts)
+- [MeloTTS Training](https://github.com/myshell-ai/MeloTTS/blob/main/docs/training.md)
+- [MetaVoice-1B Finetuning](https://github.com/metavoiceio/metavoice-src?tab=readme-ov-file#finetuning)
+- [Coqui XTTS training](https://docs.coqui.ai/en/latest/models/xtts.html#training)
 
 ### ASR
 
