@@ -1,6 +1,6 @@
 ![](/logo.PNG)
 
-# cachai: the multimodal LLM about which there's nothing to say
+# cachai: the multimodal LLM about which there's nothing to say [WIP]
 
 Welcome to the LLM that brings Chile's vibrant linguistic landscape to the forefront of technology. We're not just translating words; we're capturing the culture, humor, and distinctive Chilean spirit.
 
@@ -138,6 +138,14 @@ An unexpected but rich source for this linguistic data lies in Chile's vibrant c
 |  Common Voice Corpus 13.0 | [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets) | [Huggin Face](https://huggingface.co/datasets/mozilla-foundation/common_voice_13_0) |
 |  Common Voice Corpus 13.0 - Chilean Accent | [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets) | [Huggin Face](https://huggingface.co/datasets/mozilla-foundation/common_voice_13_0/viewer/es/train?f[accent][value]=%27Chileno:%20Chile,%20Cuyo%27) |
 
+## Existing Models
+
+| Name | Type | Author | Link |
+| ---|---|---| ---|
+| BETO | Text | [dccuchile](https://github.com/dccuchile/beto) | [Huggin Face](https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased) |
+| Tulio | Text | [Jorge Ortiz Fuentes](https://github.com/jorgeortizfuentes) | [Huggin Face](https://huggingface.co/dccuchile/tulio-chilean-spanish-bert) |
+| Patana | Text | [Jorge Ortiz Fuentes](https://github.com/jorgeortizfuentes) | [Huggin Face](https://huggingface.co/dccuchile/patana-chilean-spanish-bert) |
+
 ## Fine-tuning
 
 ### TTS
@@ -156,3 +164,4 @@ An unexpected but rich source for this linguistic data lies in Chile's vibrant c
 ## Tools
 
 - [DataSpeech](https://github.com/huggingface/dataspeech)
+
